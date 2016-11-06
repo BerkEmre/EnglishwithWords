@@ -1,0 +1,30 @@
+<resources>
+    <!--*************************************SET THIS VALUES*************************************-->
+    <string name="app_name">Kelimeler ile İngilizce</string><!--APLICATION NAME-->
+    <string name="title_activity_game">Kelimeler ile İngilizce</string><!--APLICATION TITLE-->
+    <string name="company_splash">berkemrealtan.com</string><!--SPLASH SCREEN SHOW NAME NAME-->
+    <string name="server_url">http://berkemrealtan.com/LearningCards</string><!--SERVER URL example.com/LearningCards-->
+    <!--*****************************************************************************************-->
+
+    <string name="splash_screen_delay_MS">1000</string>
+
+    <string name="navigation_drawer_open">Menüyü Aç</string>
+    <string name="navigation_drawer_close">Menüyü Kapat</string>
+
+    <string name="share">Paylaş</string>
+    <string name="havent_cards">Gösterilecek Kart Yok</string>
+    <string name="havent_internet">İnternet Bağlantısı Yok</string>
+    <string name="title_of_share">Kelimeler ile İngilizce</string>
+    <string name="share_link">https://play.google.com/store/apps/details?id=com.antika.berk.engcardbegin</string>
+    <string name="next">Sonraki</string>
+    <string name="admob_banner_add_key">ca-app-pub-3539552494760504/4510912470</string>
+    <string name="admob_splash_add_key">ca-app-pub-3539552494760504/7324778072</string>
+    <string name="splash_add_duration">7</string>
+    <string name="turn_back">Çevir</string>
+    <string name="cards">Kartlar</string>
+    <string name="tests">Test</string>
+    <string name="hello_blank_fragment">Merhaba boş fragment</string>
+    <string name="please_wait">Lütfen Bekleyin</string>
+    <string name="cards_loading">Kartlar Yükleniyor</string>
+    <string name="fill_blank">Boşluk Doldurma</string>
+</resources>

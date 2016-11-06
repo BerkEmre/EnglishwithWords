@@ -1,0 +1,31 @@
+<resources>
+    <!--*************************************SET THIS VALUES*************************************-->
+    <string name="app_name">English with Words</string><!--APLICATION NAME-->
+    <string name="title_activity_game">English with Words</string><!--APLICATION TITLE-->
+    <string name="company_splash">berkemrealtan.com</string><!--SPLASH SCREEN SHOW NAME NAME-->
+    <string name="server_url">http://berkemrealtan.com/LearningCards</string><!--SERVER URL example.com/LearningCards-->
+    <!--*****************************************************************************************-->
+
+    <string name="splash_screen_delay_MS">1000</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="share">Share</string>
+    <string name="havent_cards">Have Not Cards</string>
+    <string name="havent_internet">Have Not Internet Connection</string>
+    <string name="title_of_share">English with Words</string>
+    <string name="share_link">https://play.google.com/store/apps/details?id=com.antika.berk.engcardbegin</string>
+    <string name="next">Next</string>
+    <string name="admob_banner_add_key">ca-app-pub-3539552494760504/4510912470</string>
+    <string name="admob_splash_add_key">ca-app-pub-3539552494760504/7324778072</string>
+    <string name="splash_add_duration">7</string>
+    <string name="turn_back">Turn</string>
+    <string name="cards">Cards</string>
+    <string name="tests">Test</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="please_wait">Please Wait</string>
+    <string name="cards_loading">Cards Loading</string>
+    <string name="fill_blank">Fill Blank</string>
+</resources>
